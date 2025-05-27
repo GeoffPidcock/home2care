@@ -25,7 +25,8 @@ A voice agent to help older Australians explore out of home care before they nee
 - Working to test the assumptions ASAP using the Amazon starter code and bedrock framework.
 - Will look into Modal for deployment of the pipecat app UX 
 - An open question regarding how to best integrate this with a phone number
-![Hypothesis-Assumption-Test](./static/home2stay.png)
+
+![Hypothesis-Assumption-Test](./static/home2care.png)
 
 
 ## Contributions Welcome
