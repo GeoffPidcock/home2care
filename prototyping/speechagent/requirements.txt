@@ -1,0 +1,7 @@
+pipecat
+pipecat-ai[webrtc,silero,aws-nova-sonic]
+fastapi 
+uvicorn 
+python-dotenv 
+pipecat-ai-small-webrtc-prebuilt 
+boto3
