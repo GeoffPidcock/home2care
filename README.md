@@ -1,4 +1,4 @@
-# Home2Stay
+# Home2SCare
 
 A voice agent to help older Australians explore out of home care before they need it. Contributions from the Sydney Build Community are welcome!
 
